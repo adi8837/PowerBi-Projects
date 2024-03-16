@@ -1,6 +1,7 @@
 # :octocat:Dashboard👇
-![Report1](https://github.com/adi8837/PowerBi-Project/assets/24549513/6776ea99-9fed-48d5-b4ea-9ded6f684096)
-![Report2](https://github.com/adi8837/PowerBi-Project/assets/24549513/49620134-0ef9-40ad-b797-cf979e87728f)
+![Report1](https://github.com/adi8837/PowerBi-Projects/assets/24549513/7b58acbb-bbaa-4f91-aca6-f2fc36d8ab3d)
+![Report2](https://github.com/adi8837/PowerBi-Projects/assets/24549513/2b355a21-8271-49da-b0f9-77151ba2ea32)
+
 
 <hr />
 <br />
